@@ -1,0 +1,64 @@
+body{
+    background-image: url(https://img.freepik.com/vetores-gratis/fundo-de-cafe-desenhado-a-mao_23-2150849907.jpg);
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 20px;
+
+}
+h2{
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+.established{
+    font-size: italic;
+}
+
+h1, h2, p{
+    text-align: center;
+}
+
+.Menu{
+    width: 80%;
+    background-color: burlywood;
+    margin-left:auto ;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+    border-radius: 15px;
+}
+
+img{
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+.flavor, .dessert{
+    text-align: left;
+    width: 75%;
+}
+.price{
+    text-align: right;
+    width: 25%;
+}
+footer{
+    font-size: 14px;
+}
+.address{
+    margin-bottom: 5px;
+}
+a{
+    color: black;
+}
+a:visited{
+     color: black;
+}
+a:hover{
+    color: brown;
+}
+a:active{
+    color: brown;
+}
